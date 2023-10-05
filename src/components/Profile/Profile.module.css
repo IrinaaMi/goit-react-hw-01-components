@@ -1,0 +1,28 @@
+.profile {
+    width: 300px;
+    border: 1px solid;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.description {
+    background-color: #fff;
+}
+
+.stats {
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+}
